@@ -27,7 +27,7 @@ export async function getRecipe(req, res) {
       ],
       cookingTime: 30,
       instructions: [
-        "Cook pasta according to package instructions",
+        "Cook pasta according to what Gordon Ramsay tells you",
         "Season chicken with salt, pepper, Italian seasoning, and paprika",
         "Heat 2 tbsp butter in a skillet over medium-high heat",
         "Add chicken and cook until golden brown",
@@ -39,7 +39,7 @@ export async function getRecipe(req, res) {
         "Add Alfredo sauce and red pepper flakes",
         "Add chicken and pasta to skillet",
         "Stir until combined",
-        "Top with parsley",
+        "Top with parsley and sliced cucumber",
         "Serve and enjoy!"
       ],
       image: "https://www.budgetbytes.com/wp-content/uploads/2022/07/Chicken-Alfredo-bowl.jpg",
